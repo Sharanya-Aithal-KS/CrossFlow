@@ -24,7 +24,7 @@ The project demonstrates the application of computer graphics, 2D rendering, ani
 
 ## 📸 Application Preview
 
-<!-- Add CrossFlow simulation screenshot here -->
+![Output](output%20.png)
 
 ## ⚙️ Getting Started
 
